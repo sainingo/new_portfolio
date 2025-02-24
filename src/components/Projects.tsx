@@ -4,6 +4,8 @@ import chamaflow from "../assets/chamaflow.png";
 import parcel_delivery from "../assets/parcel_delivery.png";
 import ampath_system from "../assets/ampath.png";
 import rentme from "../assets/rentme.png"
+import parcel_info from "../assets/parcel_info.png";
+
 
 const projects = [
   {
@@ -17,7 +19,7 @@ const projects = [
   {
     title: 'Parcel Management System',
     description: 'A dynamic collaborative platform designed to optimize task management within logistics operations. Featuring real-time updates and built with React, NodeJS, and MySQL, this system ensures seamless team coordination and efficient parcel handling.',
-    image: parcel_delivery,
+    image: parcel_info,
     github: 'https://github.com/sainigo',
     demo: 'https://parcel-delivery-system.vercel.app/',
     tags: ['React', 'MySQL', 'NodeJS', 'Tailwind CSS']
